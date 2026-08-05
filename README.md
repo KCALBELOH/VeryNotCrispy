@@ -1,5 +1,5 @@
 An SFS Planet pack (fictional ; not based on real astronomical objects),
-Introduce Brias galaxy, a expanse galaxy with 9 stars and 1 black hole, and with also lots of exoplanets.
+Introduce Brias galaxy, a expanse galaxy with 6 stars, 5 systems, 1 black hole, and with also lots of exoplanets.
 (Made by me).
 How to insert:
 Press code on github,
