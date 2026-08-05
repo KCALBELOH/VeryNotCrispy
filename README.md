@@ -1,5 +1,6 @@
 An SFS Planet pack (fictional ; not based on real astronomical objects),
 Introduce Brias galaxy, a expanse galaxy with 6 stars, 5 systems, 1 black hole, and with also lots of exoplanets.
+Has version on Yaoi, more easier, set in system Ejnar.
 How to insert:
 Press code on github,
 Press download zip,
