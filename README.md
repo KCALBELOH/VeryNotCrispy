@@ -1,4 +1,4 @@
-#ASFSMOD,
+An SFS Planet pack (fictional ; not based on real astronomical objects),
 Introduce Brias galaxy, a expanse galaxy with 9 stars and 1 black hole, and with also lots of exoplanets.
 (Made by me).
 How to insert:
@@ -10,4 +10,4 @@ Go to steam, press Browse files on Gear button,
 press Spaceflight Simulator_data,
 press Custom Solar Systems,
 Put the copied Brias galaxy folder here, 
-done!
+Now its done!
