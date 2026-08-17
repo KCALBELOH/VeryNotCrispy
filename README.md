@@ -18,7 +18,7 @@ Go to the main folder,
 
 press the downloaded zip,
 
-Press the folder named Brias galaxy (it will have a version name), right click it and copy it, 
+Press the folder named Brias galaxy (it will have a version name, there might be a folder named Brias galaxy with yaoi, well, the space center is on yaoi), right click it and copy it, 
 
 Go to steam then to Spaceflight Simulator, and then, press Browse files on (steam) Gear button,
 
