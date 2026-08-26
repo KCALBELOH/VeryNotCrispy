@@ -15,4 +15,13 @@ press Custom Solar Systems,
 Put the copied Brias galaxy folder in Custom Solar systems, 
 Now its done!
 Be aware that there may be some beta / alpha content.
-.
+Images :
+(Mikey)
+<img width="1920" height="1080" alt="bobe" src="https://github.com/user-attachments/assets/0e8f08d6-64f9-4b3e-a549-4ebf265b4b9d" />
+(Lurin)
+<img width="1920" height="1080" alt="boba" src="https://github.com/user-attachments/assets/653a2070-e93d-41fe-8490-8ded0e8144a6" />
+(Ludwig)
+<img width="1000" height="998" alt="boby" src="https://github.com/user-attachments/assets/655ed899-ed72-41b5-9538-29c1896f953f" />
+(Altair)
+<img width="378" height="362" alt="bobk" src="https://github.com/user-attachments/assets/4bf0f342-b3b3-449a-938e-6b98b52ef8e5" />
+
