@@ -15,3 +15,4 @@ press Custom Solar Systems,
 Put the copied Brias galaxy folder in Custom Solar systems, 
 Now its done!
 Be aware that there may be some beta / alpha content.
+.
