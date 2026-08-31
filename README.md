@@ -1,4 +1,4 @@
-# An SFS Planet pack (fictional ; not based on real astronomical objects),
+# An SFS Planet pack (fictional ; not based on real astronomical objects), Visual enhancing done
 Introduce Brias galaxy, a expanse galaxy with 6 stars, 5 star systems, 1 black hole, and with also lots of exoplanets.
 Version Basic : Set on lurin, neighboring 2 different planets and a comet.
 Has version on Yaoi, more easier, set in G9V (sun-like) star system Ejnar.
