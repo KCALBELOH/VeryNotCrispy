@@ -5,7 +5,7 @@ Has version on Yaoi, more easier, set in G9V (sun-like) star system Ejnar.
 How to insert:
 Press code on github,
 Press download zip,
-Go inside zip (if you downloaded it as a zip),
+Go inside BG or Brias_Galaxy zip,
 Go to the main folder,
 press the downloaded zip,
 Press the folder named Brias galaxy (it will have a version name, there might be a folder named Brias galaxy with yaoi, well, the space center is on yaoi), right click it and copy it, 
