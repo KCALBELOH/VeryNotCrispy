@@ -22,6 +22,5 @@ Images :
 <img width="1920" height="1080" alt="boba" src="https://github.com/user-attachments/assets/653a2070-e93d-41fe-8490-8ded0e8144a6" />
 (Ludwig, rocky).
 <img width="1000" height="998" alt="boby" src="https://github.com/user-attachments/assets/655ed899-ed72-41b5-9538-29c1896f953f" />
-(Altair, moon of altair).
-<img width="378" height="362" alt="bobk" src="https://github.com/user-attachments/assets/4bf0f342-b3b3-449a-938e-6b98b52ef8e5" />
+(Altair, moon of altair). <img width="378" height="362" alt="bobk" src="https://github.com/user-attachments/assets/4bf0f342-b3b3-449a-938e-6b98b52ef8e5" />
 Go inside the planet pack, to see all of the objects.
