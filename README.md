@@ -24,5 +24,5 @@ Images :
 <img width="1000" height="998" alt="boby" src="https://github.com/user-attachments/assets/655ed899-ed72-41b5-9538-29c1896f953f" />
 (Altair, moon of ludwig). <img width="378" height="362" alt="bobk" src="https://github.com/user-attachments/assets/4bf0f342-b3b3-449a-938e-6b98b52ef8e5" />
 Go inside the planet pack, to see all of the objects.
-~
+-
 Hi
