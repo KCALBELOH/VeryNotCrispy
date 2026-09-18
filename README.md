@@ -1,5 +1,5 @@
 # An SFS Planet pack (fictional ; not based on real astronomical objects),
-Introduce Brias galaxy, a expanse galaxy with 6 stars, 5 star systems, 1 black hole, and with also lots of exoplanets.
+Introduce Brias galaxy, a expanse galaxy with 9 stars, 5 star systems, 1 black hole, and with also lots of exoplanets.
 Version Basic : Set on lurin, neighboring 2 different planets and a comet.
 Has version on Yaoi, more easier, set in G9V (sun-like) star system Ejnar.
 How to insert:
@@ -14,7 +14,7 @@ press Spaceflight Simulator_data,
 press Custom Solar Systems,
 Put the copied Brias galaxy folder in Custom Solar systems, 
 Now its done!
-Be aware that there may be some beta / alpha content.
+Be aware that there may be some beta / alpha content, although there are none currently.
 Images :
 (Mikey, lurins moon).
 <img width="1920" height="1080" alt="bobe" src="https://github.com/user-attachments/assets/0e8f08d6-64f9-4b3e-a549-4ebf265b4b9d" />
@@ -23,6 +23,6 @@ Images :
 (Ludwig, rocky).
 <img width="1000" height="998" alt="boby" src="https://github.com/user-attachments/assets/655ed899-ed72-41b5-9538-29c1896f953f" />
 (Altair, moon of ludwig). <img width="378" height="362" alt="bobk" src="https://github.com/user-attachments/assets/4bf0f342-b3b3-449a-938e-6b98b52ef8e5" />
+
 Go inside the planet pack, to see all of the objects.
 -
-Hi
